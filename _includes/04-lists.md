@@ -1,2 +1,2 @@
-*Films
+-Films
 Games
